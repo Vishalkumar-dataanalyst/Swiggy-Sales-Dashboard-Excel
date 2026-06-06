@@ -59,6 +59,7 @@ Users can dynamically filter the dashboard using:
 - Business Insight Generation
 
 📷 Dashboard Preview
+
 <img width="1209" height="746" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/bb26657d-3d90-40c9-bb71-a68d2a48438c" />
 
 
@@ -69,4 +70,6 @@ Vishal Kumar
 
 Aspiring Data Analyst | B.Tech CSE Student
 
-LinkedIn: (Add your LinkedIn profile link)
+LinkedIn: (www.linkedin.com/in/vishalkumar-dataanalyst)
+
+
